@@ -1,7 +1,7 @@
 ﻿{
   "name": "dev.xiphia.optmap-texture-helper",
   "displayName": "Opt Map Texture Helper",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "unity": "2022.3",
   "description": "Texture manipulation tool for YMToon optmaps",
   "author": {
