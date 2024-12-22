@@ -1,0 +1,6 @@
+﻿{
+  "name": "OptMapTextureHelper.Editor",
+  "includePlatforms": [
+    "Editor"
+  ]
+}
