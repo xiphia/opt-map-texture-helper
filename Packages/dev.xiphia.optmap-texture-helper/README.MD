@@ -12,6 +12,7 @@ YMToon で利用される opt 系テクスチャの編集をサポートする�
 
 * Unity Package でインストールする場合
     * dev.xiphia.optmap-texture-helper-0.1.x-installer.unitypackage パッケージを Unity プロジェクトにインポートします
+    * インストールダイアログが表示されるので Install ボタンを押します
 * VPM リポジトリからインストールする場合
     * VCC などで `https://xiphia.github.io/vrc/vpm.json` をリポジトリに追加し、Opt Map Texture Helper をプロジェクトに追加します
 
