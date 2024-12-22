@@ -210,7 +210,7 @@ namespace XiPHiA.OptMapTextureHelper
             }
             EditorGUILayout.Space(4);
             EditorGUILayout.LabelField("", GUI.skin.horizontalSlider);
-            EditorGUILayout.LabelField("ver 2024.12.21", EditorStyles.centeredGreyMiniLabel);
+            EditorGUILayout.LabelField("ver 0.1.1", EditorStyles.centeredGreyMiniLabel);
         }
 
         private static void SeparateTextures(Texture2D baseTexture, OutputFormat format = OutputFormat.Auto)
